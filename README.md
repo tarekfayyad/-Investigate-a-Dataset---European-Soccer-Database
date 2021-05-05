@@ -1,4 +1,4 @@
-# -Investigate-a-Dataset---European-Soccer-Database<br>
+# Investigate-a-Dataset---European-Soccer-Database<br>
 
 This project analyzes soccer database from several European countries, from 2008 to 2016. The The database consists of seven tables namely 'Country', 'League', 'Player', 'Player Attributes', 'Team', 'Team Attributes', and 'Match'. It shows the  The original source of the database can be found on Kaggle..
 
