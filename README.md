@@ -15,5 +15,4 @@ In this project, I will analyze a dataset and then communicate my findings about
 
 ## Files used
 * investigate-a-dataset-template.ipynb<br>
-* raw file<br>
 * modified and cleaned file
